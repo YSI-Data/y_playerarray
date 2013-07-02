@@ -57,11 +57,11 @@ Changelog:
 </remarks>
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Internal\y_version"
+#include "..\YSI_Internal\y_version"
 
 #include <a_samp>
-#include "..\YSI-Core\y_debug"
-#include "..\YSI-Data\y_bit"
+#include "..\YSI_Core\y_debug"
+#include "..\YSI_Data\y_bit"
 
 #define PA_TYPE_NONE                    (-1)
 #define PA_TYPE_BOOL                    (-2)
